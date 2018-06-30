@@ -1,5 +1,5 @@
 ---
-title: Blog.Erictreacy.Github.Io
+title: A Neuronal Journey
 timezone: America/New_York
 collections:
   posts:
@@ -11,7 +11,7 @@ collections:
 permalink: "/blog/:title"
 name: Writing
 description: A blog on Jekyll and GitHub Pages
-google_verification: 
+google_verification:
 include:
 - ".htaccess"
 exclude:
