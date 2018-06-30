@@ -1,3 +1,9 @@
+# shaneshang.github.io
+Personal Website
+
+This website is based on the amazing template by Eric Treacy:  https://github.com/erictreacy/blog.erictreacy.github.io
+
+
 # Blog
 A blog made with [Jekyll](http://jekyllrb.com).
 
