@@ -1,11 +1,12 @@
 ---
 title: CV
-layout: about
+layout: post
 ---
 
 # Education
-## Northwestern Univeristy
-*2014-2018*  B.A. in Mathematics and Neuroscience, Honors: Summa cum laude, Phi Beta Kappa
 
-## Ludwig Maximilian University of Munich
-*2016-2017* Completed graduate level courses in neuroscience and mathematics
+**M.S. in Applied Mathematics**    *2018-present*
+University of Washington, Seattle, WA
+
+**B.A. in Mathematics and Neuroscience, Summa cum laude**  *2014-2018*
+Northwestern University, Evanston, IL
