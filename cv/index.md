@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: post
+layout: cv
 ---
 
 # Education
