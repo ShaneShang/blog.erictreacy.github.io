@@ -17,6 +17,11 @@ Northwestern University, Evanston, IL
 
 # Research Experience
 
+## Dr. Stefan Mihalas's group  *[ April 2018 -- present ]*
+
+Allen Institute for Brain Science, Seattle, WA
+
+
 ## Dr. Theodore Berger’s Laboratory  *[ June 2016 -- January 2018 ]*
 
 University of Southern California, Center for Neural Engineering, Los Angeles, CA
