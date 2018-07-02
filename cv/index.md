@@ -17,12 +17,12 @@ Northwestern University, Evanston, IL
 
 # Research Experience
 
-## Dr. Theodore Berger’s Laboratory  *[ June 2016 -- Jan 2018 ]*
+## Dr. Theodore Berger’s Laboratory  *[ June 2016 -- January 2018 ]*
 
 University of Southern California, Center for Neural Engineering, Los Angeles, CA
 
 
-## Dr, John F Disterhoft’s Laboratory  *[ Jan 2015 -- Jan 2018 ]*
+## Dr, John F Disterhoft’s Laboratory  *[ January 2015 -- January 2018 ]*
 
 Northwestern University Feinberg School of Medicine, Chicago, IL
 
