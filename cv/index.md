@@ -5,7 +5,7 @@ layout: about
 
 # Education
 
-##M.S. in Applied Mathematics *2018-present*
+## M.S. in Applied Mathematics *2018-present*
 
 University of Washington, Seattle, WA
 
