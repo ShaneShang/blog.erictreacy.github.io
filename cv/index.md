@@ -17,7 +17,7 @@ Northwestern University, Evanston, IL
 
 # Research Experience
 
-## Research Assistant, Dr. Theodore Berger’s Laboratory  *June 2016-Jan 2018*
+## Research Assistant, Dr. Theodore Berger’s Laboratory  *[June 2016-Jan 2018]*
 
 University of Southern California, Center for Neural Engineering, Los Angeles, CA
 
