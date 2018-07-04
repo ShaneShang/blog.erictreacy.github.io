@@ -23,6 +23,19 @@ layout: default
     </ul>
 </div>
 
+<div class="blog">
+    <h1></h1>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<p> Try <p>
+
 <div class="footer">
     <p>&copy; 2017 <a href="http://erictreacy.me">Eric Treacy</a>, unless otherwise noted.</p>
 </div>
