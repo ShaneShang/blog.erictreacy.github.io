@@ -15,7 +15,8 @@ layout: default
 <div class="blog">
     <h1></h1>
     <ul>
-        {% for post in site.reposts %}
+        {% for post in site.posts %}
+        <p> posts <p>
         <li>
             <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
