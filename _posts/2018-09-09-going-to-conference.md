@@ -1,5 +1,5 @@
 ---
-title: List of conferences
+title: Going to conference
 date: 2018-09-09 19:00:00 -05:00
 layout: post
 tag: research
