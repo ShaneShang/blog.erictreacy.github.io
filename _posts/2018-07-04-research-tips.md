@@ -13,3 +13,6 @@ Modeling
 
 Poster and Presentation
 * Start making the draft a few weeks early.
+
+External links
+* [markdown syntax](http://karpathy.github.io/2016/09/07/phd/)
