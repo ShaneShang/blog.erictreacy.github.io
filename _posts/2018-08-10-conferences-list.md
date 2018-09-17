@@ -18,3 +18,14 @@ Conferences that I try to go to: (machine learning)
 * NIPS
 * ICML
 * ICRL
+
+Conferences on computer vision:
+* ICCV
+* ECCV
+* ACCV
+* BMVC
+
+Some other conferences:
+* COLT (Computational Learning Theory)
+* AAAI (Conference of the Association for the Advancement of Artificial Intelligence)
+* AISTATS (Artificial Intelligence and Statistics)
