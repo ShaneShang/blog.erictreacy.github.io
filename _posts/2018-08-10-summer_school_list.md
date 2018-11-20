@@ -11,3 +11,4 @@ Below are some summer schools in computational neuroscience:
 * Summer Workshop on the Dynamic Brain (UW, Allen) (Application starts Feb 2019)
 * OIST Computational Neuroscience Course (OIST, Japan) (Application starts Jan ist, 2019)
 * CSH Asia Summer School (Suzhou, China)
+* Princeton C3N Summer School

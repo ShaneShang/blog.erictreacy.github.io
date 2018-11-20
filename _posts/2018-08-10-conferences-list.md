@@ -29,3 +29,11 @@ Some other conferences:
 * COLT (Computational Learning Theory)
 * AAAI (Conference of the Association for the Advancement of Artificial Intelligence)
 * AISTATS (Artificial Intelligence and Statistics)
+
+Conferences attended in 2018
+* CNS, July 2018, Seattle
+* SIAM, July 2018, Portland
+* SfN, November 2018, SD
+
+Journals I enjoy reading
+* The Journal of Mathematical Neuroscience
